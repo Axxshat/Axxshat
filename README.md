@@ -1,6 +1,6 @@
 # Hi, I'm Akshat 👋
 
-### • Projects AI/ML • DS •  • Full Stack Development • Problem Solving Systems
+###  • Software Development • Problem Solving Systems • AI/ML • DS
 
 I'm an engineering student focused on building products that solve real-world problems through technology, AI, and behavioral design.
 
