@@ -6,7 +6,7 @@ I'm an engineering student focused on building products that solve real-world pr
 
 Currently building:
 
-## 🚀 Saviour & Civic-Eye & Project-z
+## 🚀 MentiPeak & Saviour & Project-z(Stealth)
 
 An AI-powered digital wellbeing & focus platform designed to transform distracting website visits into intentional recovery experiences.
 
