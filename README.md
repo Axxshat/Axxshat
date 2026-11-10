@@ -8,7 +8,7 @@ Currently building:
 
 ## 🚀 Project-z(Stealth) coming this winter 2026-2027
 
-An AI-powered digital wellbeing & focus platform designed to transform distracting website visits into intentional recovery experiences.
+coming soon
 
 ---
 
