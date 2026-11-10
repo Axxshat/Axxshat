@@ -6,7 +6,7 @@ I'm an engineering student focused on building products that solve real-world pr
 
 Currently building:
 
-## 🚀 MentiPeak & Saviour & Project-z(Stealth)
+## 🚀 Project-z(Stealth) coming this winter 2026-2027
 
 An AI-powered digital wellbeing & focus platform designed to transform distracting website visits into intentional recovery experiences.
 
