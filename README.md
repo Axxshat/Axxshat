@@ -2,7 +2,7 @@
 
 <img src="./assets/hero-hybrid.gif" alt="Pixel art: an outlaw at sunset beside a cozy neon-lit coding room" width="100%" />
 
-# hey, i'm akshat! 👋
+# hey, i'm Akshat! 👋
 
 **developer in progress · building useful things · occasionally lost in side quests**
 
@@ -65,7 +65,7 @@
 
 <br />
 
-### 🤠 the outlaw side quest
+###  the 🤠 side quest
 
 <p align="center"><img src="./assets/western-frontier.gif" alt="Animated western pixel landscape with a cowboy, horse, lantern and desert sunset" width="100%" /></p>
 
