@@ -53,22 +53,12 @@
 <table>
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/Crelumora"><img src="./assets/crelumora-card.png" alt="Crelumora pixel-art project card: AI-native short-form video editor" width="100%" /></a>
-<sub><a href="https://github.com/Crelumora">Crelumora</a> · creative tools / AI-native editing concept</sub>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/Axxshat/Saviour-Labs"><img src="./assets/saviour-card.png" alt="Saviour Labs pixel-art project card: digital wellbeing" width="100%" /></a>
-<sub><a href="https://github.com/Axxshat/Saviour-Labs">Saviour Labs</a> · reclaim your focus</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
 <a href="https://github.com/Axxshat/Solar-System"><img src="./assets/solar-card.png" alt="Solar System pixel-art project card: interactive live wallpaper" width="100%" /></a>
 <sub><a href="https://github.com/Axxshat/Solar-System">Solar System</a> · interactive space wallpaper</sub>
 </td>
 <td width="50%" align="center">
-<a href="https://github.com/Axxshat/CampusOS"><img src="./assets/campusos-card.png" alt="CampusOS pixel-art project card: campus utility platform" width="100%" /></a>
-<sub><a href="https://github.com/Axxshat/CampusOS">CampusOS</a> · an all-in-one campus experiment</sub>
+<a href="https://github.com/Axxshat/Saviour-Labs"><img src="./assets/saviour-card.png" alt="Saviour Labs pixel-art project card: digital wellbeing" width="100%" /></a>
+<sub><a href="https://github.com/Axxshat/Saviour-Labs">Saviour Labs</a> · reclaim your focus</sub>
 </td>
 </tr>
 </table>
