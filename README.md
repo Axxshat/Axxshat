@@ -46,9 +46,9 @@
 
 <br />
 
-### 🎮 selected side quests
+### 🎮 Featured side quests
 
-*Some projects I build, experiment with, or keep improving.*
+*Some projects I build, experiment with.*
 
 <table>
 <tr>
