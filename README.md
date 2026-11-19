@@ -1,75 +1,56 @@
-# Hi, I'm Akshat 👋
+<div align="center">
 
-###  • Software Development • Problem Solving Systems • AI/ML • DS
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2800&pause=800&color=C792EA&center=true&vCenter=true&width=900&lines=hey+there%2C+i'm+Akshat+%E2%9C%A8;building+cool+stuff+on+the+internet+%F0%9F%92%BB;AI+%E2%80%A2+Full+Stack+%E2%80%A2+Creative+Builder+%F0%9F%9A%80;cozy+mode+%E2%98%81%EF%B8%8F+%2B+outlaw+mode+%F0%9F%A4%A0" alt="Typing SVG" />
 
-I'm an engineering student focused on building products that solve real-world problems through technology, AI, and behavioral design.
+<br/>
 
-Currently building:
+<img src="https://img.shields.io/badge/status-building%20cool%20stuff-8b5cf6?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/vibe-cozy%20pixel-38bdf8?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/side%20quest-outlaw%20coder-c2410c?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/focus-AI%20%2B%20Products-f59e0b?style=for-the-badge&labelColor=111827" />
 
-## 🚀 Project-z(Stealth) coming this winter 2026-2027
-
-coming soon
-
----
-
-# 🛠️ MY Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge\&logo=supabase\&logoColor=3ECF8E)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
-
-
+</div>
 
 ---
 
-# 📌 Current Focus
+## 🌌 Akshat's Little Corner of the Internet
 
-* Building Saviour MVP
-* Learning scalable product architecture
-* AI integrations & behavioral systems
-* Hackathons & startup projects
+> **Software engineering student** building products, experimenting with AI, and turning random ideas into real things.  
+> A mix of **cozy creator energy** ☁️ and **outlaw builder energy** 🤠
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## ☁️ Cozy Mode
+- building from a quiet pixel room
+- music on, code open, ideas loading...
+- into software, AI, design & internet creativity
+- likes making things that feel useful *and* cool
+
+</td>
+<td width="50%" valign="top">
+
+## 🤠 Outlaw Mode
+- shipping ideas on the wild internet frontier
+- breaking bugs, chasing side quests
+- late-night builder with too many tabs open
+- currently wanted for writing "just one more feature"
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🌐 Connect With Me
+## 🎮 Current Loadout
 
-* LinkedIn: [www.linkedin.com/in/akshat-chaurasia-a10943402](http://www.linkedin.com/in/akshat-chaurasia-a10943402)
-* Instagram: [instagram.com/@akshatchaurasia](https://instagram.com/akshatchaurasia)
-* GitHub: [github.com/AkshatVinayakChaurasia](https://github.com/AkshatVinayakChaurasia)
-
----
-
-# ⚡ Philosophy
-
-> “Technology should help people regain control, not lose it.”
-
-<!--
-**AkshatVinayakChaurasia/AkshatVinayakChaurasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```txt
+name        :: Akshat Chaurasia
+role        :: CSE student + builder
+focus       :: software • ai • product building
+vibe        :: cozy pixel room × rdr2 side quest
+currently   :: learning, building, improving
+side buffs  :: music • gaming • art
